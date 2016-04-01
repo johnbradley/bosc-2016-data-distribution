@@ -3,7 +3,8 @@
 **Author**       _John Bradley_, Erich S. Huang, Jonathan Turner
 **Affiliation**  https://www.genome.duke.edu
 **Contact**      john.bradley@duke.edu
-**URL**          https://github.com/Duke-Translational-Bioinformatics/duke-data-service, https://github.com/Duke-GCB/DukeDSClient
+**URL**          https://github.com/Duke-Translational-Bioinformatics/duke-data-service
+**URL**          https://github.com/Duke-GCB/DukeDSClient
 **License**      GPLv3, MIT
 --------------   -------------------------------------------
 
