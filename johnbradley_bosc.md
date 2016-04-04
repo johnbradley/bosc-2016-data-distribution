@@ -20,7 +20,7 @@ which can be traced back to the shortcomings of distributing and
 sharing data via traditional, yet still very common, networked block
 storage. In particular, (1) lifecycle progression, including key steps
 such as handing over data from core to investigator, and depositing
-data for permannet archival in a repository, is difficult or
+data for permanent archival in a repository, is difficult or
 impossible to formalize as a documented and programmable transaction;
 (2) the metadata of data, which importantly includes tracing a data
 object's entire provenance chain, are difficult to track and tie to
@@ -34,8 +34,8 @@ To enable these challenges to be addressed in a principled way, a
 collaboration spearheaded by an interdisciplinary team at Duke
 University is building an open-source informatics infrastructure for
 managing and tracking data at scale through its lifecycle, called the
-[Duke Data Service (DDS)][3]. DDS is inspired by years of experience
-developing and using [SAGE Bionetworks' Synapse][4], comes with an
+[Duke Data Service (DDS)][3]^1^. DDS is inspired by years of experience
+developing and using [SAGE Bionetworks' Synapse][4]^2^, comes with an
 extensive API deployed on the Heroku cloud, and for storing,
 versioning, and identifying data federates across cloud-based and
 on-premise object store service APIs, including AWS S3 and OpenStack
