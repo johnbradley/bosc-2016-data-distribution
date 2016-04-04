@@ -54,6 +54,13 @@ infrastructrure can formalize the hand-over of data from core to
 investigator as a documented transaction that signifies the passing of
 data stewardship from one party to another.
 
+
+**References:**
+
+1.  <https://github.com/Duke-Translational-Bioinformatics/duke-data-service>
+
+2.  <http://sagebase.org/synapse>
+
 [2]: mailto:john.bradley@duke.edu
 [3]: https://github.com/Duke-Translational-Bioinformatics/duke-data-service
 [4]: http://sagebase.org/synapse
