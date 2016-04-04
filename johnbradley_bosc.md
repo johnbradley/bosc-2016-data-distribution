@@ -1,10 +1,11 @@
 --------------   -------------------------------------------
 **Title**        Towards traceable, scriptable, and efficient data distribution for next-generation genomics
-**Author**       _John Bradley_, Erich S. Huang, Jonathan Turner, Hilmar Lapp
+**Author**       _John Bradley_, Dan Leehr, Erich S. Huang, Jonathan Turner, Hilmar Lapp
 **Affiliation**  Duke University, Center for Genomic and Computational Biology
-**Contact**      john.bradley@duke.edu
-**URL**          https://github.com/Duke-GCB/DukeDSClient
-**License**      GPLv3, MIT
+**Contact**      [john.bradley@duke.edu][2]
+**URLs**         <https://github.com/Duke-GCB/DukeDSClient>
+                 <https://github.com/Duke-GCB/DukeDSHandoverService>
+**License**      MIT
 --------------   -------------------------------------------
 
 At many research institutions, next-generation genomics data starts
@@ -33,8 +34,8 @@ To enable these challenges to be addressed in a principled way, a
 collaboration spearheaded by an interdisciplinary team at Duke
 University is building an open-source informatics infrastructure for
 managing and tracking data at scale through its lifecycle, called the
-Duke Data Service (DDS). DDS is inspired by years of experience
-developing and using SAGE Bionetworks' Synapse, comes with an
+[Duke Data Service (DDS)][3]. DDS is inspired by years of experience
+developing and using [SAGE Bionetworks' Synapse][4], comes with an
 extensive API deployed on the Heroku cloud, and for storing,
 versioning, and identifying data federates across cloud-based and
 on-premise object store service APIs, including AWS S3 and OpenStack
@@ -52,3 +53,7 @@ we will show how a web-based user-interface implemented on top of this
 infrastructrure can formalize the hand-over of data from core to
 investigator as a documented transaction that signifies the passing of
 data stewardship from one party to another.
+
+[2]: mailto:john.bradley@duke.edu
+[3]: https://github.com/Duke-Translational-Bioinformatics/duke-data-service
+[4]: http://sagebase.org/synapse
